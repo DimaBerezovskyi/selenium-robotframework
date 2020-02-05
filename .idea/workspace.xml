@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae687a65-993f-4587-82a6-1e3fb9934192" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKn95VUNMeSoiFLUSnCOWqUZkn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumLibrary-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="test3robot" sdk-home="C:\Users\Envy\AppData\Local\Programs\Python\Python36\python.exe">
+        <option name="mySdkHome" value="C:\Users\Envy\AppData\Local\Programs\Python\Python36\python.exe" />
+        <option name="myModuleName" value="test3robot" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\test3robot" />
+      <recent name="D:\development\test3robot\Resources" />
+      <recent name="D:\development\test3robot\PO" />
+      <recent name="D:\development\test3robot\PageObject" />
+      <recent name="D:\development\test3robot\Tests\tests" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae687a65-993f-4587-82a6-1e3fb9934192" name="Default Changelist" comment="" />
+      <created>1580803498613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580803498613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="25" key="#Inspections" timestamp="1580891266020">
+      <screen x="-1920" y="-154" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="25" key="#Inspections/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1580891266020" />
+    <state x="-1180" y="122" key="FileChooserDialogImpl" timestamp="1580915188640">
+      <screen x="-1920" y="-154" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="122" key="FileChooserDialogImpl/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1580915188639" />
+    <state x="-1444" y="102" width="1444" height="528" key="IDE.errors.dialog" timestamp="1580890486709">
+      <screen x="-1920" y="-154" width="1920" height="1040" />
+    </state>
+    <state x="-1444" y="102" width="1444" height="528" key="IDE.errors.dialog/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1580890486709" />
+    <state x="-1459" y="9" key="SettingsEditor" timestamp="1580804172332">
+      <screen x="-1920" y="-154" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="9" key="SettingsEditor/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1580804172332" />
+    <state x="-1264" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1580804503374">
+      <screen x="-1920" y="-154" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1580804503374" />
+  </component>
+</project>
